@@ -7,7 +7,7 @@ Skill: React / JS / JAVA / HTML / CSS
   <img align="left" width="200" src="https://user-images.githubusercontent.com/81354609/112456166-10ff3d00-8d8d-11eb-9eff-8fdba1f25ece.jpg"/>
   <img align="left" width="200" src="https://user-images.githubusercontent.com/81354609/112456174-12c90080-8d8d-11eb-993e-2647771de0fe.jpg"/>
   <img align="left" width="200" src="https://user-images.githubusercontent.com/81354609/112456175-12c90080-8d8d-11eb-979f-d9f9ddf60a15.jpg"/>
-  <img  width="200" src="https://user-images.githubusercontent.com/81354609/112456177-13619700-8d8d-11eb-9cf7-fd659e4d4c5f.jpg"/>
+  <img align="left" width="200" src="https://user-images.githubusercontent.com/81354609/112456177-13619700-8d8d-11eb-9cf7-fd659e4d4c5f.jpg"/>
   <img width="200" src="https://user-images.githubusercontent.com/81354609/112456179-13fa2d80-8d8d-11eb-981b-47e60fd20131.jpg"/>
   
 
