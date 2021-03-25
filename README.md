@@ -1,4 +1,9 @@
-<h4> Hi, I'am Quang from VietNam and I do Application developer </h4>
+<h4> Hi, I'am Quang from VietNam and I do Application developer. I really enjoy learning languages and frameworks like React and React Native. 
+I also enjoy UI, UX and  design in general.</h4>
+
+
+Skill: React / JS / JAVA / HTML / CSS
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=quangnguyen1820)
 <H2>App Note-List</H2>
