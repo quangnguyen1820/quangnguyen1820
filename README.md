@@ -14,7 +14,8 @@
   
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/kwang181/)  
-
+[<img src='https://user-images.githubusercontent.com/81354609/112461927-0cd61e00-8d93-11eb-9f42-fe3188811a95.png' alt='facebook' height='40'>](https://www.instagram.com/nt_kwang/) 
+[<img src='https://user-images.githubusercontent.com/81354609/112461932-0e074b00-8d93-11eb-9c79-402c2051eda7.png' height='40'>](https://www.linkedin.com/in/thanh-quang-nguyen-59610a20a/)  
 
 
 <H2>Ngôn ngữ lập trình</H2>
@@ -25,7 +26,4 @@
 [<img width="29" src="https://user-images.githubusercontent.com/81354609/112454048-e01e0880-8d8a-11eb-9888-77a852571727.png"/>][linked]
 [<img width="29" src="https://user-images.githubusercontent.com/81354609/112454029-dd231800-8d8a-11eb-865a-4d70af38de29.png"/>][github]
 
-[facebook]: https://www.facebook.com/kwang181/
-[instagram]: https://www.instagram.com/nt_kwang/
-[linked]: https://www.linkedin.com/in/thanh-quang-nguyen-59610a20a/
 [github]: https://github.com/quangnguyen1820
