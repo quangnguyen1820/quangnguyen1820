@@ -4,15 +4,23 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<H2>App Note-List</H2>
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=quangnguyen1820)
-
+<H2>App Note-List</H2>
   <img align="left" width="200" src="https://user-images.githubusercontent.com/81354609/112456166-10ff3d00-8d8d-11eb-9eff-8fdba1f25ece.jpg"/>
   <img align="left" width="200" src="https://user-images.githubusercontent.com/81354609/112456174-12c90080-8d8d-11eb-993e-2647771de0fe.jpg"/>
   <img align="left" width="200" src="https://user-images.githubusercontent.com/81354609/112456175-12c90080-8d8d-11eb-979f-d9f9ddf60a15.jpg"/>
   <img  width="200" src="https://user-images.githubusercontent.com/81354609/112456177-13619700-8d8d-11eb-9cf7-fd659e4d4c5f.jpg"/>
   <img width="200" src="https://user-images.githubusercontent.com/81354609/112456179-13fa2d80-8d8d-11eb-981b-47e60fd20131.jpg"/>
+  
+  
+<H2>Mạng xã hội</H2>
+
+[<img width="29" marginLeft="10" src="https://user-images.githubusercontent.com/81354609/112460125-25ddcf80-8d91-11eb-9b07-17c1c2345e0c.png"/>][linked]
+[<img width="29" marginLeft="10" src="https://user-images.githubusercontent.com/81354609/112460129-270efc80-8d91-11eb-9694-acc2ab3411bd.jpg"/>][linked]
+[<img width="29" marginLeft="10" src="https://user-images.githubusercontent.com/81354609/112460134-27a79300-8d91-11eb-9e32-e420e765a582.png"/>][linked]
+
+
+<H2>Ngôn ngữ lập trình</H2>
 
 [<img width="29" marginLeft="10" src="https://user-images.githubusercontent.com/81354609/112454049-e01e0880-8d8a-11eb-9f16-0a887dac950d.png"/>][linked]
 [<img width="29" src="https://user-images.githubusercontent.com/81354609/112454046-df857200-8d8a-11eb-9fad-9ae63ca17af2.png"/>][linked]
