@@ -14,13 +14,17 @@
   
 
 <br/>
+<h2>Social</h2>
+<br/>
 
 [<img src='https://user-images.githubusercontent.com/81354609/112462389-9128a100-8d93-11eb-99fe-f802859d4a27.png' alt='facebook' height='40'>](https://www.facebook.com/kwang181/) 
 [<img src='https://user-images.githubusercontent.com/81354609/112461927-0cd61e00-8d93-11eb-9f42-fe3188811a95.png' alt='instagram' height='40'>](https://www.instagram.com/nt_kwang/) 
 [<img src='https://user-images.githubusercontent.com/81354609/112461932-0e074b00-8d93-11eb-9c79-402c2051eda7.png' alt='Linkedin' height='40'>](https://www.linkedin.com/in/thanh-quang-nguyen-59610a20a/)  
 
+<br/>
+<h2>Programming language</h2>
+<br/>
 
-<H2>Ngôn ngữ lập trình</H2>
 [<img width="29" src="https://user-images.githubusercontent.com/81354609/112454049-e01e0880-8d8a-11eb-9f16-0a887dac950d.png"/>][linked]
 [<img width="29" src="https://user-images.githubusercontent.com/81354609/112454046-df857200-8d8a-11eb-9fad-9ae63ca17af2.png"/>][linked]
 [<img width="29" src="https://user-images.githubusercontent.com/81354609/112454037-de544500-8d8a-11eb-9543-14b37e479360.png"/>][linked]
@@ -29,3 +33,4 @@
 [<img width="29" src="https://user-images.githubusercontent.com/81354609/112454029-dd231800-8d8a-11eb-865a-4d70af38de29.png"/>][github]
 
 [github]: https://github.com/quangnguyen1820
+[linked]: https://www.linkedin.com/in/thanh-quang-nguyen-59610a20a/
