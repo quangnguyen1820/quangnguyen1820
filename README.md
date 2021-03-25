@@ -12,7 +12,6 @@
   <img  width="200" src="https://user-images.githubusercontent.com/81354609/112456177-13619700-8d8d-11eb-9cf7-fd659e4d4c5f.jpg"/>
   <img width="200" src="https://user-images.githubusercontent.com/81354609/112456179-13fa2d80-8d8d-11eb-981b-47e60fd20131.jpg"/>
   
-<H2>App Note-List</H2>
 <div>
 [<img src='https://user-images.githubusercontent.com/81354609/112462389-9128a100-8d93-11eb-99fe-f802859d4a27.png' alt='facebook' height='40'>](https://www.facebook.com/kwang181/) 
 [<img src='https://user-images.githubusercontent.com/81354609/112461927-0cd61e00-8d93-11eb-9f42-fe3188811a95.png' alt='instagram' height='40'>](https://www.instagram.com/nt_kwang/) 
