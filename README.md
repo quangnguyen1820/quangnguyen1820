@@ -13,10 +13,8 @@
   <img width="200" src="https://user-images.githubusercontent.com/81354609/112456179-13fa2d80-8d8d-11eb-981b-47e60fd20131.jpg"/>
   
   
-<H2>Mạng xã hội</H2>
-[<img width="29" src="https://user-images.githubusercontent.com/81354609/112460459-7f45fe80-8d91-11eb-8313-92b7ae552bfd.png"/>][facebook]
-[<img width="29" src="https://user-images.githubusercontent.com/81354609/112460461-80772b80-8d91-11eb-883b-8cfc34addf50.png"/>][instagram]
-[<img width="29" src="https://user-images.githubusercontent.com/81354609/112460463-810fc200-8d91-11eb-8e30-ea726888a007.png"/>][linked]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/kwang181/)  
+
 
 
 <H2>Ngôn ngữ lập trình</H2>
