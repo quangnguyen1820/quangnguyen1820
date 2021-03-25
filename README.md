@@ -14,10 +14,9 @@
   
   
 <H2>Mạng xã hội</H2>
-
-[<img width="29" marginLeft="10" src="https://user-images.githubusercontent.com/81354609/112460125-25ddcf80-8d91-11eb-9b07-17c1c2345e0c.png"/>][linked]
-[<img width="29" marginLeft="10" src="https://user-images.githubusercontent.com/81354609/112460129-270efc80-8d91-11eb-9694-acc2ab3411bd.jpg"/>][linked]
-[<img width="29" marginLeft="10" src="https://user-images.githubusercontent.com/81354609/112460134-27a79300-8d91-11eb-9e32-e420e765a582.png"/>][linked]
+[<img width="29" marginLeft="10" src="https://user-images.githubusercontent.com/81354609/112460459-7f45fe80-8d91-11eb-8313-92b7ae552bfd.png"/>][linked]
+[<img width="29" marginLeft="10" src="https://user-images.githubusercontent.com/81354609/112460461-80772b80-8d91-11eb-883b-8cfc34addf50.png"/>][linked]
+[<img width="29" marginLeft="10" src="https://user-images.githubusercontent.com/81354609/112460463-810fc200-8d91-11eb-8e30-ea726888a007.png"/>][linked]
 
 
 <H2>Ngôn ngữ lập trình</H2>
